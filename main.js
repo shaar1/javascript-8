@@ -14,6 +14,7 @@ var myName = "Abdallah ",
 
     */
 
+/*
    var myName = "Abdallah ",
 
     myAge = 32,
@@ -27,3 +28,37 @@ var myName = "Abdallah ",
     " My Age Is: " + 30 + "<br>" +
 
     " My Country Is: " + "Syria";
+    */
+
+/*
+
+var myName = "Abdallah ",
+
+    myAge = 32,
+
+    myConuntry = "Syria";
+
+document.getElementById("test").innerHTML =
+
+    "My Name Is : " + myName + "<br>" +
+
+    "My Age Is: " + myAge + "<br>" +
+
+    "My Country Is: " + myConuntry;
+
+    */
+
+   var myName = "Abdallah ",
+
+   myAge = 32,
+
+   myConuntry = "Syria";
+
+document.getElementById("test").innerHTML =
+
+   "My Name Is : " + myName + "<br>" +
+
+   "My Age Is: " + myAge + "<br>" +
+
+   "My Country Is: " + myConuntry;
+   
